@@ -1,9 +1,8 @@
 package implicitReview
 
 /**
-  * 2019/01/05
+  * 2019/01/05 在单例中写入隐式类
   */
-/
 object ImplicitClass {
   val ago = "ago"
   val from_now = "from_now"
